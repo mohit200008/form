@@ -25,7 +25,7 @@ select, input[type="text"], input[type="email"], input[type="tel"] {
     width: 92%;
     padding: 10px;
     margin: 5px 0;
-    margin-bottom: 10px; /* Add margin inside the container */
+    margin-bottom: 10px; 
     border: 1px solid #ccc;
     border-radius: 3px;
 }
@@ -34,7 +34,7 @@ input[type="date"] {
     width: 92%;
     padding: 10px;
     margin: 5px 0;
-    margin-bottom: 10px; /* Add margin inside the container */
+    margin-bottom: 10px; 
     border: 1px solid #ccc;
     border-radius: 3px;
     outline: none;
